@@ -1,3 +1,10 @@
 @import url('../vendor/normalize.css');
 @import url('../vendor/fonts.css');
 @import url('../blocks/page/page.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__logo/header__logo.css');
+@import url('../blocks/link/link.css');
+@import url('../blocks/lang-list/lang-list.css');
+@import url('../blocks/lang-list/__item/lang-list__item.css');
+@import url('../blocks/lang-list/__link/lang-list__link.css');
+@import url('../blocks/lang-list/__link/_active/lang-list__link_active.css');
