@@ -1,8 +1,0 @@
-.lead__route {
-  position: absolute;
-  top: 20%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 95%;
-  display: block;
-}
