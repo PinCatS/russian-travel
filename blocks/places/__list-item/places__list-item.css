@@ -1,0 +1,19 @@
+.places__list-item {
+  margin-bottom: 49px;
+}
+
+.places__list-item:last-of-type {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .places__list-item {
+    margin-bottom: 73px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .places__list-item {
+    margin-bottom: 80px;
+  }
+}
