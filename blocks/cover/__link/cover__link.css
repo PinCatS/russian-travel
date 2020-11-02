@@ -1,13 +1,13 @@
 .cover__link {
   position: relative;
   text-decoration: none;
-  height: 100%;
   color: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   background: url('../../../images/cover-trains.jpg') no-repeat center / cover;
+  padding-bottom: 62.5%;
 }
 
 .cover__link::before {

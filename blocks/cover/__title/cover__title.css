@@ -1,7 +1,5 @@
 .cover__title {
-  position: relative;
-  z-index: 1;
-  margin: 0 auto 16px auto;
+  margin: 0 0 16px 0;
   max-width: 288px;
   font-style: normal;
   font-weight: 900;
