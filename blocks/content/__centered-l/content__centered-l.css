@@ -1,0 +1,9 @@
+.content__centered-l {
+  margin: 0;
+}
+
+@media screen and (min-width: 1024px) {
+  .content__centered-l {
+    margin: 0 auto;
+  }
+}

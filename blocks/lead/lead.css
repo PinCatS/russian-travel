@@ -4,16 +4,13 @@
 
 @media screen and (min-width: 1024px) {
   .lead {
-    margin: 0 auto;
-    padding: 48px 0 0 0;
     max-width: 928px;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .lead {
-    margin: 0 auto;
-    padding: 56px 0 0 0;
+    padding-top: 56px;
     max-width: 984px;
   }
 }
