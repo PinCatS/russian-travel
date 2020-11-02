@@ -1,23 +1,27 @@
-# Проект 3: Путешествие по России
+# Project 3: Travel across Russia
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+## Project description
 
-**Интро**
+The third project of Web developer program by Yandex.Praktikum. It combines in it all previous technologies learned as well as the tools required to build adaptive web-sites.
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+## Technologies I used
 
-**Figma**
+* Semantic versioning using HTML 5 (ex., section, article, main tags)
+* Flex and Grid
+* Transitions
+* Media queries
+* BEM methodology
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+* Figma and Git
 
-**Картинки**
+## How to view the web page
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+1. You can open it by going to the project's github.io page [Travel across Russia](https://pincats.github.io/russian-travel/)
+2. You can download or clone the project and open index.html in any browser locally
 
-Удачи!
+## TODOs
+
+* Extract common code into mixins
+* Add animation to the lead block's route image
+
+
