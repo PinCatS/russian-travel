@@ -1,0 +1,23 @@
+.content__cover {
+  margin-top: 66px;
+}
+
+@media screen and (min-width: 768px) {
+  .content__cover {
+    margin-top: 90px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .content__cover {
+    margin-top: 92px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .content__cover {
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

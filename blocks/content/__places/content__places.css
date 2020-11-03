@@ -1,0 +1,21 @@
+.content__places {
+  margin-top: 64px;
+}
+
+@media screen and (min-width: 768px) {
+  .content__places {
+    margin: 88px 24px 0 24px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .content__places {
+    margin: 92px 48px 0 48px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .content__places {
+    margin: 92px auto 0 auto;
+  }
+}
