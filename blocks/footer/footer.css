@@ -3,7 +3,6 @@
   flex-direction: column;
   align-items: stretch;
   justify-content: start;
-  padding: 64px 0 24px 16px;
 }
 
 @media screen and (min-width: 768px) {
@@ -11,12 +10,5 @@
     flex-direction: row;
     align-items: flex-start;
     justify-content: space-between;
-    padding: 88px 24px 24px;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .footer {
-    padding: 92px 48px 24px 48px;
   }
 }
