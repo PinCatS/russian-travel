@@ -1,22 +1,22 @@
-.places__paragraph {
+.card-article__paragraph {
   margin: 0 16px 25px 16px;
   font-weight: normal;
   font-size: 16px;
   line-height: 1.63;
 }
 
-.places__paragraph:last-of-type {
+.card-article__paragraph:last-of-type {
   margin-bottom: 0;
 }
 
 @media screen and (min-width: 768px) {
-  .places__paragraph {
+  .card-article__paragraph {
     margin: 0 0 25px 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  .places__paragraph {
+  .card-article__paragraph {
     margin-bottom: 27px;
     font-size: 18px;
   }
