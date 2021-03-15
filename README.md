@@ -23,5 +23,6 @@ The third project of Web developer program by Yandex.Praktikum. It combines in i
 
 * Extract common code into mixins
 * Add animation to the lead block's route image
+* Make language button work
 
 
